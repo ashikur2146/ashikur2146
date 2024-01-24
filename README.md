@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashikur2146
-- 👀 I’m interested in Blockchain, ML/AI, Business development, Planning and investment
+- 👀 I’m interested in Blockchain, ML/AI, No code/low code, Asynchoronous app development, Business development, Planning and investment
 - 🌱 I’m currently learning business trend in tech industry
 - 💞️ I’m looking to collaborate on blockchain, ML/AI, Enterprise, realtime applications
 - 📫 How to reach me https://www.linkedin.com/in/ashikur2146/
