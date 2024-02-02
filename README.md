@@ -3,7 +3,7 @@
 - 👀 Interested in Blockchain, ML/AI, No code/low code, financial app development, Business development, Planning and investment
 - 🛄 Linkedin https://www.linkedin.com/in/ashikur2146/
 - ▶️ Youtube: https://www.youtube.com/@AshiksTechVlog
-- 💲  Startup: https://arcs.work
+- 💲💲 Startup: https://arcs.work
 - ⚛️ Crunchbase: https://www.crunchbase.com/organization/arcs-work
 - 🧑‍🤝‍🧑 Collaboration: ashikur2146@gmail.com
 
