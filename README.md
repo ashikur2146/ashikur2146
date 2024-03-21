@@ -11,3 +11,9 @@
 ashikur2146/ashikur2146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Latest Read
+
+[Basics of character interpretation in Rust]([https://write.geeksforgeeks.org/](https://medium.com/@ashikur2146/basics-of-character-interpretation-in-rust-619a5fa97350)https://medium.com/@ashikur2146/basics-of-character-interpretation-in-rust-619a5fa97350)
+
+[Writing a very first RUST program](https://medium.com/dev-genius/writing-a-very-first-rust-program-abd74a1c39da)
