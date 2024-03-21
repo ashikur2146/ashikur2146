@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 # Latest Read
 
-[Basics of character interpretation in Rust]([https://write.geeksforgeeks.org/](https://medium.com/@ashikur2146/basics-of-character-interpretation-in-rust-619a5fa97350)https://medium.com/@ashikur2146/basics-of-character-interpretation-in-rust-619a5fa97350)
+[Basics of character interpretation in Rust](https://medium.com/@ashikur2146/basics-of-character-interpretation-in-rust-619a5fa97350)
 
 [Writing a very first RUST program](https://medium.com/dev-genius/writing-a-very-first-rust-program-abd74a1c39da)
