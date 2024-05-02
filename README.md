@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashikur2146
 - 👨‍🦱 Proficient in PLM (Product Lifecycle Management), FinTech, and Enterprise application development.
-- 👀 Interested in Blockchain, ML/AI, No code/low code, financial app development, Business development, Planning and investment
+- 👀 Interested in Marketing and sales service, Blockchain, ML/AI, No code/low code, financial app development, Business development, Planning and investment
 - 🛄 Linkedin https://www.linkedin.com/in/ashikur2146/
 - ▶️ Youtube: https://www.youtube.com/@AshiksTechVlog
 - 💲💲 Startup: https://arcs.work
