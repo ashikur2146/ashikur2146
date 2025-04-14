@@ -10,9 +10,9 @@
 
 Digital Products and Services:
 -------------------------------
-Automated Sales Funnel for your business: funnelx.business (Preseed funding phase)
-Gig workplace: clipcoins.xyz (Preseed phase)
-AI assisted multi asset wealth management app: finshark.vip (Preseed phase)
+- Automated Sales Funnel for your business: funnelx.business (Preseed funding phase)
+- Gig workplace: clipcoins.xyz (Preseed phase)
+- AI assisted multi asset wealth management app: finshark.vip (Preseed phase)
 
 <!---
 ashikur2146/ashikur2146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
