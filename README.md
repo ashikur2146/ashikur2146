@@ -6,7 +6,7 @@
 - 💲💲 Startup: https://arcs.work
 - 🤝 Partnership & Collaboration with: Realtime Software SDN. BHD.
 - ⚛️ Crunchbase: https://www.crunchbase.com/organization/arcs-work
-- 🧑‍🤝‍🧑 Collaboration: admin@arcs.work
+- 🧑‍🤝‍🧑 Collaboration for business: admin@arcs.work
 
 Digital Products and Services:
 -------------------------------
