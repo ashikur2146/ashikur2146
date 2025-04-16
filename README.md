@@ -19,7 +19,7 @@ Promotion:
 If you are planning to establish an online presence then you need a website. To make a website live and let everyone use it you require 2 fundamental components, a domain and a hosting to put your work online.
 Hostinger provides you both at a super competitive price. If you are looking for a hefty 20% discount then check this link (https://hostinger.com?REFERRALCODE=XSSASHIKUWIC) which will benefit me a little bit also. They offer 99.99% uptime service with multiple server locations to choose from (North america, europe, SEA, South Asia, Eurasia), they got your business covered worldwide.
 
-N.B. The link is 100% secured for visit.
+N.B. The link is 100% secure to visit.
 
 <!---
 ashikur2146/ashikur2146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
