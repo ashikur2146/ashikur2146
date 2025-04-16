@@ -14,6 +14,14 @@ Digital Products and Services:
 - Gig workplace: clipcoins.xyz (Preseed phase)
 - AI assisted multi asset wealth management app: finshark.vip (Preseed phase)
 
+Promotion:
+----------
+If you're looking to establish an online presence, the first step is to create a website. Every website requires a domain and reliable web hosting to ensure it's always accessible to your audience. Hostinger provides everything you need to launch your business without delay, offering excellent services for VPS hosting, domain registration, and business email solutions.
+
+With Hostinger, you can count on maximum uptime and high-quality customer support, giving your website the foundation it needs to succeed. Plus, for a limited time, you can enjoy an exclusive 20% discount on their services. Simply visit (https://hostinger.com?REFERRALCODE=XSSASHIKUWIC) to claim your offer!
+
+N.B. The link is 100% secured for visit.
+
 <!---
 ashikur2146/ashikur2146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
