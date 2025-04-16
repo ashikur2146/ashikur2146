@@ -16,9 +16,8 @@ Digital Products and Services:
 
 Promotion:
 ----------
-If you're looking to establish an online presence, the first step is to create a website. Every website requires a domain and reliable web hosting to ensure it's always accessible to your audience. Hostinger provides everything you need to launch your business without delay, offering excellent services for VPS hosting, domain registration, and business email solutions.
-
-With Hostinger, you can count on maximum uptime and high-quality customer support, giving your website the foundation it needs to succeed. Plus, for a limited time, you can enjoy an exclusive 20% discount on their services. Simply visit (https://hostinger.com?REFERRALCODE=XSSASHIKUWIC) to claim your offer!
+If you are planning to establish an online presence then you need a website. To make a website live and let everyone use it you require 2 fundamental components, a domain and a hosting to put your work online.
+Hostinger provides you both at a super competitive price. If you are looking for a hefty 20% discount then check this link (https://hostinger.com?REFERRALCODE=XSSASHIKUWIC) which will benefit me a little bit also. They offer 99.99% uptime service with multiple server locations to choose from (North america, europe, SEA, South Asia, Eurasia), they got your business covered worldwide.
 
 N.B. The link is 100% secured for visit.
 
