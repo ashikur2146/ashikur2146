@@ -3,8 +3,7 @@
 - 👀 Interested in Leadership, Entrepreneurship, Marketing and sales, Blockchain, ML/AI, No code/low code, financial app development, Business development, Planning and investment
 - 🛄 Linkedin https://www.linkedin.com/in/ashikur2146/
 - ▶️ Youtube: https://www.youtube.com/@AshiksTechVlog
-- 💲💲 Startup: https://arcs.work
-- 🤝 Partnership & Collaboration with: Realtime Software SDN. BHD.
+- 💲💲 Startup: Arcs (https://arcs.work)
 - ⚛️ Crunchbase: https://www.crunchbase.com/organization/arcs-work
 - 🧑‍🤝‍🧑 Collaboration for business: admin@arcs.work
 
@@ -13,6 +12,10 @@ Digital Products and Services:
 - Automated Sales Funnel for your business: funnelx.business (Preseed funding phase)
 - Gig workplace: clipcoins.xyz (Preseed phase)
 - AI assisted multi asset wealth management app: finshark.vip (Preseed phase)
+
+Partnership & Collaboration:
+----------------------------
+Realtime Software SDN. BHD. (https://realtimesoft.com.my) [Software Technology Company based in KL, Malaysia. They are taking all technical and software solutions from Arcs.]
 
 Promotion:
 ----------
