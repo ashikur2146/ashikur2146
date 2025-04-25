@@ -1,3 +1,6 @@
+About Me:
+---------
+
 - 👋 Hi, I’m Ashikur Rahman Chowdhury
 - 👨‍🦱 I am a software professional, tech enthusiast, expert in PLM (Product Lifecycle Management), FinTech, and Enterprise application development.
 - 👀 Interested in Leadership, Entrepreneurship, Marketing and sales, Blockchain, ML/AI, No code/low code, financial app development, Business development, Planning and investment
