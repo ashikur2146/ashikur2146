@@ -12,6 +12,7 @@ About Me:
 
 Digital Products and Services:
 -------------------------------
+- Cross border manpower document management app to handle legal issues; targeted towards the manpower agencies (https://arcs.work/manpower-app-download)
 - Automated Sales Funnel for your business: funnelx.business (Preseed funding phase)
 - Gig workplace: clipcoins.xyz (Preseed phase)
 - AI assisted multi asset wealth management app: finshark.vip (Preseed phase)
